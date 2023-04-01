@@ -6,13 +6,11 @@ body {
 
 #hero {
     width: 592px;
-    margin: auto;
-
-    
+    margin: 0 auto 72px ;  
 }
 
 img {
-    margin: auto;
+    margin-bottom: 72px;
 }
 
 h1 {
